@@ -1,0 +1,10 @@
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.exe.config
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.exe
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.pdb
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.AssemblyReference.cache
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\obj\Debug\Cờ_Caro.Form1.resources
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\obj\Debug\Cờ_Caro.Properties.Resources.resources
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.GenerateResource.cache
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.CoreCompileInputs.cache
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.exe
+D:\Học kì 4\Lập trình Windows\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.pdb
